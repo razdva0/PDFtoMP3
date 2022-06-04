@@ -3,7 +3,7 @@
 ### To start:
 
 ```sh
-pip install -r .\requirements.txt
+pip install -r requirements.txt
 ```
 
 ```sh
